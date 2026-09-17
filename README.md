@@ -138,7 +138,7 @@ https://github.com/Nazik2020/Agrilink-Agri-Marketplace
 <p>
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/pulsar-gradient/48/javascript.png" alt="javascript"/>
-  <img width="64" height="64" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>
+  <img width="48" height="48" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
 </p>
 
