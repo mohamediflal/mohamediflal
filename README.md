@@ -1,16 +1,259 @@
-## Hi there 👋
+# 👋 Hi, I'm Nawas Mohamed Iflal
 
-<!--
-**mohamediflal/mohamediflal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Undergraduate | Mobile & Full-Stack Developer
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamediflal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science and Technology undergraduate at **Uva Wellassa University of Sri Lanka**, passionate about building mobile, web, and full-stack applications.
+
+- 🎓 BSc Honours in Computer Science and Technology
+- 📱 Mobile App Developer
+- 🌐 Full-Stack Developer
+- 💼 Mobile App Developer at JobAlign Software Solutions
+- 🤖 Interested in AI-powered applications
+- 🧠 Interested in software engineering and research
+- 🚀 Always learning, building, and improving
+
+---
+
+## 💼 Experience
+
+### 📱 Mobile App Developer — JobAlign Software Solutions
+
+**November 2025 – Present**
+
+- Developed and maintained cross-platform mobile applications using **Flutter** and **Laravel**.
+- Integrated **REST APIs** and **Firebase services**.
+- Implemented new features and continuous product improvements.
+- Performed testing, debugging, and performance optimization.
+- Collaborated with cross-functional teams in an Agile environment.
+- Participated in different stages of the Software Development Life Cycle.
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 AI-Powered Grocery Platform
+
+**React Native • Node.js • PostgreSQL**
+
+A completed full-stack grocery mobile application designed to provide a smart and convenient shopping experience.
+
+### ✨ Features
+
+- 🤖 AI-powered product recommendations
+- 🛍️ Smart shopping list functionality
+- 📱 Cross-platform mobile application
+- 🌐 Node.js backend
+- 🗄️ PostgreSQL database
+- 🔄 REST API integration
+- 👤 User and product management
+- 🛒 Grocery shopping functionality
+
+### 🛠️ Technologies
+
+`React Native` `React` `Node.js` `PostgreSQL`
+
+---
+
+## 🥇 Gold Information Mobile Application
+
+**Flutter • PHP Laravel • Firebase**
+
+A client-facing mobile application developed at **JobAlign Software Solutions** for providing gold information and pricing.
+
+### ✨ Highlights
+
+- 📱 Developed mobile application features using Flutter
+- 🌐 Integrated RESTful backend services
+- 🔌 Integrated third-party APIs
+- 🔥 Used Firebase for authentication and cloud services
+- ⚙️ Used Laravel for server-side business logic
+- 📊 Delivered real-time information to mobile users
+
+### 🛠️ Technologies
+
+`Flutter` `Dart` `Laravel` `PHP` `Firebase` `REST API`
+
+---
+
+## 🏠 HomelyPro — Home Service Provider Application
+
+**Flutter • Dart • Firebase**
+
+A mobile platform connecting homeowners with local service providers for on-demand home services.
+
+### ✨ Highlights
+
+- 👤 User authentication
+- 🔥 Firebase Firestore integration
+- 📱 Responsive mobile UI
+- 🏠 Home-service provider platform
+- ⚡ Real-time database functionality
+- 🎨 Modern mobile user experience
+
+### 🛠️ Technologies
+
+`Flutter` `Dart` `Firebase` `Firestore`
+
+🔗 **Repository:**  
+https://github.com/mohamediflal/homlypro-app
+
+---
+
+## 🌱 AgriLink — Agriculture Marketplace
+
+**React • PHP • MySQL**
+
+A web-based agriculture marketplace connecting farmers and buyers while providing access to agricultural resources.
+
+### ✨ Highlights
+
+- 👨‍🌾 Farmer and buyer platform
+- 🔐 Role-based access control
+- ⚛️ React frontend
+- ⚙️ PHP backend
+- 🗄️ MySQL database
+- 🔄 Full-stack web application
+
+### 🛠️ Technologies
+
+`React` `PHP` `MySQL` `HTML5` `CSS3`
+
+🔗 **Repository:**  
+https://github.com/Nazik2020/Agrilink-Agri-Marketplace
+
+---
+
+# 🧰 Tech Stack
+
+## 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+## 📱 Frontend & Mobile
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+## ⚙️ Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+## 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white" />
+</p>
+
+---
+
+# 🎓 Education
+
+### BSc Honours in Computer Science and Technology
+
+**Uva Wellassa University of Sri Lanka**
+
+📅 Expected Graduation: **2028**
+
+---
+
+# 🧠 Research Interests
+
+I'm interested in applying computational and software engineering techniques to **brain network analysis**.
+
+My research interests include:
+
+- 🧠 Brain network analysis
+- 📊 Network disruption analysis
+- 🔍 Critical region identification
+- ⚡ Computationally efficient algorithms
+- 📈 Multi-metric network analysis
+
+---
+
+# 💡 Soft Skills
+
+- Problem Solving
+- Teamwork
+- Communication
+- Adaptability
+- Critical Thinking
+- Time Management
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamediflal&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamediflal&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamediflal&theme=tokyo-night&hide_border=true" width="95%" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/mohamediflal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mohamediflal0811cs">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:iflalmohammed0311@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+
+### 🚀 Build • Learn • Research • Improve
+
+</p>
