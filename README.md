@@ -238,15 +238,15 @@ My research interests include:
 
 <p align="left">
   <a href="https://github.com/mohamediflal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img width="50" height="50" src="https://img.icons8.com/ios/50/github--v1.png" alt="github--v1"/>
   </a>
 
   <a href="https://www.linkedin.com/in/mohamediflal0811cs">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
   </a>
 
   <a href="mailto:iflalmohammed0311@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img width="48" height="48" src="https://img.icons8.com/emoji/48/e-mail.png" alt="e-mail"/>
   </a>
 </p>
 
