@@ -238,7 +238,7 @@ My research interests include:
 
 <p align="left">
   <a href="https://github.com/mohamediflal">
-    <img width="50" height="50" src="https://img.icons8.com/ios/50/github--v1.png" alt="github--v1"/>
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
   </a>
 
   <a href="https://www.linkedin.com/in/mohamediflal0811cs">
