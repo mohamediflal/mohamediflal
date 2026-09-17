@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nawas Mohamed Iflal
+# 👋 Hi, I'm Mohamed Iflal
 
 ### 💻 Computer Science Undergraduate | Mobile & Full-Stack Developer
 
