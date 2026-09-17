@@ -137,9 +137,9 @@ https://github.com/Nazik2020/Agrilink-Agri-Marketplace
 
 <p>
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img width="48" height="48" src="https://img.icons8.com/pulsar-gradient/48/javascript.png" alt="javascript"/>
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
 </p>
 
 ## 📱 Frontend & Mobile
