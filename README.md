@@ -174,7 +174,7 @@ https://github.com/Nazik2020/Agrilink-Agri-Marketplace
 
 <p>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/git.png" alt="git"/>
-  <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/github.png" alt="github"/>
+  <img width="48" height="48" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white" />
@@ -238,7 +238,7 @@ My research interests include:
 
 <p align="left">
   <a href="https://github.com/mohamediflal">
-    <img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
+    <img width="48" height="48" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
   </a>
 
   <a href="https://www.linkedin.com/in/mohamediflal0811cs">
