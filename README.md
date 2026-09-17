@@ -165,8 +165,8 @@ https://github.com/Nazik2020/Agrilink-Agri-Marketplace
 
 <p>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
- <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
 </p>
 
@@ -174,8 +174,8 @@ https://github.com/Nazik2020/Agrilink-Agri-Marketplace
 
 <p>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/git.png" alt="git"/>
-  <img width="48" height="48" src="https://img.icons8.com/ios-glyphs/30/github.png" alt="github"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/>
+  <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/github.png" alt="github"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white" />
 </p>
