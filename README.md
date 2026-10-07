@@ -233,7 +233,7 @@ My research interests include:
   </a>
 
   <a href="https://iflal-portfolio.vercel.app">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/domain.png" alt="portfolio"/>
+    <img width="48" height="48" src="https://img.icons8.com/arcade/64/portfolio.png" alt="portfolio"/>
   </a>
 </p>
 
