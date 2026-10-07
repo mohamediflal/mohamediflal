@@ -231,6 +231,10 @@ My research interests include:
   <a href="mailto:iflalmohammed0311@gmail.com">
     <img width="48" height="48" src="https://img.icons8.com/emoji/48/e-mail.png" alt="e-mail"/>
   </a>
+
+  <a href="https://iflal-portfolio.vercel.app">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/domain.png" alt="portfolio"/>
+  </a>
 </p>
 
 ---
